@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="56.708755mm"
+   height="56.708748mm"
+   viewBox="0 0 56.708755 56.708748"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-43.810746,-142.21632)">
+    <g
+       id="g6">
+      <circle
+         style="fill:#4c49ff;fill-opacity:1;fill-rule:evenodd;stroke:#060000;stroke-width:7.9375e-08;stroke-linecap:square;paint-order:markers stroke fill"
+         id="path1"
+         cx="72.165123"
+         cy="170.57069"
+         r="28.354378" />
+      <g
+         id="g5"
+         transform="matrix(1.3775979,0,0,0.58486253,-16.162348,114.43826)"
+         style="fill:#f9f9f9">
+        <g
+           id="g2"
+           transform="translate(-10.583334,4.7625002)"
+           style="fill:#f9f9f9;fill-opacity:1">
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#060000;stroke-width:7.9375e-08;stroke-linecap:square;paint-order:markers stroke fill"
+             id="rect1"
+             width="3.4633834"
+             height="55.414135"
+             x="72.046982"
+             y="59.616268" />
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#060000;stroke-width:7.9375e-08;stroke-linecap:square;paint-order:markers stroke fill"
+             id="rect2"
+             width="2.7933249"
+             height="13.966624"
+             x="124.91975"
+             y="37.488842"
+             transform="rotate(34.766854)" />
+        </g>
+        <g
+           id="g4"
+           style="fill:#f9f9f9;fill-opacity:1">
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#060000;stroke-width:5.82462e-08;stroke-linecap:square;paint-order:markers stroke fill"
+             id="rect3"
+             width="20.988615"
+             height="2.7841194"
+             x="54.975613"
+             y="122.94974" />
+          <rect
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#060000;stroke-width:8.61185e-08;stroke-linecap:square;paint-order:markers stroke fill"
+             id="rect4"
+             width="2.5626082"
+             height="17.73317"
+             x="29.023737"
+             y="118.47055"
+             transform="matrix(0.96245262,-0.27144973,0.20047989,0.97969782,0,0)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
