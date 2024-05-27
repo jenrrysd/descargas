@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Descargas1 de Archivos
+Comment=Descargas Application
+Exec=/home/jssd/dist/descargas1
+Icon=/home/jssd/dist/descargas1.svg
+Terminal=true
+Type=Application
+
+
+
